@@ -1,0 +1,1 @@
+game.Players.LocalPlayer:Kick("lol skill issue imagine auto aim iban")
